@@ -127,3 +127,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Ignore files created by the script
+backups/
+ieee_oui_data.txt
+nmap-mac-prefixes_updated
